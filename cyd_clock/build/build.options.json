@@ -5,5 +5,5 @@
   "fqbn": "esp32:esp32:esp32:PartitionScheme=huge_app",
   "hardwareFolders": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages",
   "otherLibrariesFolders": "C:\\Users\\adam\\Documents\\Arduino\\libraries",
-  "sketchLocation": "F:\\Workspaces\\cyd_clock"
+  "sketchLocation": "D:\\Desktop\\Workspaces\\cyd_clock"
 }

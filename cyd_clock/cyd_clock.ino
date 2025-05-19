@@ -1,3 +1,6 @@
+namespace fs { class FS; }
+using FS = fs::FS;
+
 #include <WiFi.h>
 #include <NTPClient.h>
 #include <WiFiUdp.h>
@@ -5,6 +8,7 @@
 #include <TFT_eSPI.h>
 #include <XPT2046_Touchscreen.h>
 #include <WiFiManager.h>  // Add this at the top
+#include <FS.h>
 
 
 #define XPT2046_IRQ 36   // T_IRQ
@@ -54,10 +58,15 @@ void touchscreen_read(lv_indev_t *indev, lv_indev_data_t *data) {
   }
 }
 
+unsigned long lastNtpSync = 0;
+unsigned long lastMillis = 0;
+unsigned long currentEpoch = 0;
+const unsigned long ntpSyncInterval = 60 * 60 * 1000UL; // Sync every hour
+
 void setup() {
   Serial.begin(115200);
   tft.init();
-  tft.setRotation(1); // 1 = 90 degrees (landscape)
+  tft.setRotation(1);
   pinMode(LCD_BACKLIGHT_PIN, OUTPUT);
 
   lv_init();
@@ -77,29 +86,63 @@ void setup() {
   lv_obj_align(clock_label, LV_ALIGN_CENTER, 0, 0);
   lv_label_set_text(clock_label, "Connecting...");
 
+  // Increase font size
+  static lv_style_t style_large_font;
+  lv_style_init(&style_large_font);
+  lv_style_set_text_font(&style_large_font, &lv_font_montserrat_48);
+  lv_obj_add_style(clock_label, &style_large_font, 0);
+
   // --- WiFiManager section ---
   WiFiManager wifiManager;
-  wifiManager.autoConnect("CYD-Clock-Setup"); // Portal SSID
+  wifiManager.autoConnect("CYD-Clock-Setup");
 
   // Now connected to WiFi
   timeClient.begin();
-
-  // You can create more LVGL objects for menus, etc.
+  timeClient.update();
+  currentEpoch = timeClient.getEpochTime();
+  lastMillis = millis();
+  lastNtpSync = millis();
 }
 
 void loop() {
   // handleTouchOrButton();
+  updateClockTime();
   showClock();
-  lv_timer_handler(); // LVGL task handler
+  lv_timer_handler();
   lv_tick_inc(5);
   delay(5);
 }
 
+void updateClockTime() {
+  // Sync with NTP every hour
+  if (millis() - lastNtpSync > ntpSyncInterval) {
+    timeClient.update();
+    currentEpoch = timeClient.getEpochTime();
+    lastMillis = millis();
+    lastNtpSync = millis();
+  }
+}
+
 void showClock() {
-  timeClient.update();
+  // Calculate current time using millis
+  unsigned long elapsed = (millis() - lastMillis) / 1000;
+  unsigned long displayEpoch = currentEpoch + elapsed;
+
+  // Convert epoch to HH:MM:SS
+  int hours = (displayEpoch  % 86400L) / 3600;
+  int minutes = (displayEpoch % 3600) / 60;
+  int seconds = displayEpoch % 60;
+
+  // Convert to 12-hour format and determine AM/PM
+  int displayHour = hours % 12;
+  if (displayHour == 0) displayHour = 12;
+  const char* ampm = (hours < 12) ? "AM" : "PM";
+
   char buf[32];
-  snprintf(buf, sizeof(buf), "%s", timeClient.getFormattedTime().c_str());
+  snprintf(buf, sizeof(buf), "%02d:%02d:%02d %s", displayHour, minutes, seconds, ampm);
   lv_label_set_text(clock_label, buf);
 }
 
-//
+
+
+// Implement other features using LVGL widgets for UI...

@@ -56,6 +56,31 @@
   },
   {
     "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Include": "WiFiManager.h",
+    "Includepath": "C:\\Users\\adam\\Documents\\Arduino\\libraries\\WiFiManager"
+  },
+  {
+    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Include": "Update.h",
+    "Includepath": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\Update\\src"
+  },
+  {
+    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Include": "WebServer.h",
+    "Includepath": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\WebServer\\src"
+  },
+  {
+    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Include": "DNSServer.h",
+    "Includepath": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\DNSServer\\src"
+  },
+  {
+    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Include": "AsyncUDP.h",
+    "Includepath": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\AsyncUDP\\src"
+  },
+  {
+    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
     "Include": "",
     "Includepath": null
   },
@@ -1976,6 +2001,66 @@
   },
   {
     "Sourcefile": "C:\\Users\\adam\\Documents\\Arduino\\libraries\\XPT2046_Touchscreen\\XPT2046_Touchscreen.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\adam\\Documents\\Arduino\\libraries\\WiFiManager\\WiFiManager.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\Update\\src\\HttpsOTAUpdate.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\Update\\src\\Updater.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\WebServer\\src\\Parsing.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\WebServer\\src\\WebServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\WebServer\\src\\detail\\mimetable.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\WebServer\\src\\middleware\\AuthenticationMiddleware.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\WebServer\\src\\middleware\\CorsMiddleware.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\WebServer\\src\\middleware\\LoggingMiddleware.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\WebServer\\src\\middleware\\MiddlewareChain.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\DNSServer\\src\\DNSServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\AsyncUDP\\src\\AsyncUDP.cpp",
     "Include": "",
     "Includepath": null
   }

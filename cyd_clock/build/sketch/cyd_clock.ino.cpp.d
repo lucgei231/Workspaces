@@ -891,3 +891,25 @@ F:\Workspaces\cyd_clock\build\sketch\cyd_clock.ino.cpp.o: \
  C:\Users\adam\Documents\Arduino\libraries\TFT_eSPI/Extensions/Button.h \
  C:\Users\adam\Documents\Arduino\libraries\TFT_eSPI/Extensions/Sprite.h \
  C:\Users\adam\Documents\Arduino\libraries\XPT2046_Touchscreen/XPT2046_Touchscreen.h \
+ C:\Users\adam\Documents\Arduino\libraries\WiFiManager/WiFiManager.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-2f7dcd86-v1\esp32/include/esp_wifi/include/esp_wifi.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-2f7dcd86-v1\esp32/include/esp_wifi/include/esp_wifi_crypto_types.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-2f7dcd86-v1\esp32/include/esp_wifi/include/esp_wifi_default.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-2f7dcd86-v1\esp32/include/esp_netif/include/esp_netif.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-2f7dcd86-v1\esp32/include/esp_netif/include/esp_netif_types.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-2f7dcd86-v1\esp32/include/esp_netif/include/esp_netif_defaults.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\Update\src/Update.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32/MD5Builder.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-2f7dcd86-v1\esp32/include/esp_rom/include/esp_rom_md5.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32/HashBuilder.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32/HEXBuilder.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\WebServer\src/WebServer.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\WebServer\src/HTTP_Method.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-2f7dcd86-v1\esp32/include/http_parser/http_parser.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\WebServer\src/Uri.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\WebServer\src/middleware/Middleware.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\WebServer\src/detail/RequestHandler.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\DNSServer\src/DNSServer.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\AsyncUDP\src/AsyncUDP.h \
+ C:\Users\adam\Documents\Arduino\libraries\WiFiManager/wm_strings_en.h \
+ C:\Users\adam\Documents\Arduino\libraries\WiFiManager/wm_consts_en.h
