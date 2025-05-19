@@ -1,0 +1,29 @@
+F:\Workspaces\cyd_clock\build\libraries\lvgl\misc\cache\lv_cache.c.o: \
+ C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\cache\lv_cache.c \
+ C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\cache\lv_cache.h \
+ C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\cache\lv_cache_entry.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/osal/lv_os.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_kconfig.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-2f7dcd86-v1\esp32/qio_qspi/include/sdkconfig.h \
+ C:\Users\adam\AppData\Local\Arduino15\packages\esp32\tools\esp32-arduino-libs\idf-release_v5.4-2f7dcd86-v1\esp32/include/esp_common/include/esp_attr.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_types.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/osal/lv_os_none.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_types.h \
+ C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\cache\lv_cache_private.h \
+ C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\cache\lv_cache_lru_rb.h \
+ C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\cache\lv_image_cache.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \
+ C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\cache\lv_image_header_cache.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/stdlib/lv_sprintf.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_types.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_assert.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_log.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_types.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/stdlib/lv_mem.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/stdlib/lv_string.h \
+ C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\cache\lv_cache_entry_private.h \
+ C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_profiler.h

@@ -1,0 +1,9 @@
+{
+  "additionalFiles": "..\\..",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "build.warn_data_percentage=75",
+  "fqbn": "esp32:esp32:esp32:PartitionScheme=huge_app",
+  "hardwareFolders": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\adam\\Documents\\Arduino\\libraries",
+  "sketchLocation": "F:\\Workspaces\\cyd_clock"
+}

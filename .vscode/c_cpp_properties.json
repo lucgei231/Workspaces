@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${default}",
+                "C:/Users/adam/Documents/Arduino/libraries/TFT_eSPI",
+                "C:/Users/adam/Documents/Arduino/libraries/WiFiNINA/src",
+                "C:/Users/adam/Documents/Arduino/libraries/NTPClient",
+                "C:/Users/adam/Documents/Arduino/libraries/XPT2046_Touchscreen"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\Users\\adam\\scoop\\apps\\gcc\\current\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64"
+        }
+    ],
+    "version": 4
+}
