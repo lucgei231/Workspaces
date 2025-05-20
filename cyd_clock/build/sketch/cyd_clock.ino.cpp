@@ -32,7 +32,7 @@ int x, y, z;
 const char* ssid = "VM6842809";
 const char* password = "h2hFnrycpprn";
 WiFiUDP ntpUDP;
-NTPClient timeClient(ntpUDP, "pool.ntp.org");
+NTPClient timeClient(ntpUDP, "pool.ntp.org", 3600); // GMT+1 offset in seconds
 
 // --- LVGL & Display ---
 TFT_eSPI tft = TFT_eSPI();
@@ -51,6 +51,7 @@ void showSettingsMenu();
 void closeSettingsMenu();
 void settings_btn_event_cb(lv_event_t *e);
 void close_btn_event_cb(lv_event_t *e);
+void brightness_slider_event_cb(lv_event_t *e);
 
 void touchscreen_read(lv_indev_t *indev, lv_indev_data_t *data) {
   if (touchscreen.tirqTouched() && touchscreen.touched()) {
@@ -165,14 +166,27 @@ void showSettingsMenu() {
   lv_obj_add_flag(clock_label, LV_OBJ_FLAG_HIDDEN);
   lv_obj_add_flag(settings_btn, LV_OBJ_FLAG_HIDDEN);
 
-  // Create settings menu container
+  // Create settings menu container (fullscreen)
   settings_menu = lv_obj_create(lv_scr_act());
-  lv_obj_set_size(settings_menu, 200, 200);
+  lv_obj_set_size(settings_menu, SCREEN_WIDTH, SCREEN_HEIGHT);
   lv_obj_align(settings_menu, LV_ALIGN_CENTER, 0, 0);
+
+  // Brightness slider label
+  lv_obj_t *slider_label = lv_label_create(settings_menu);
+  lv_label_set_text(slider_label, "Brightness");
+  lv_obj_align(slider_label, LV_ALIGN_TOP_MID, 0, 20);
+
+  // Brightness slider
+  lv_obj_t *brightness_slider = lv_slider_create(settings_menu);
+  lv_obj_set_width(brightness_slider, SCREEN_WIDTH - 60);
+  lv_obj_align(brightness_slider, LV_ALIGN_TOP_MID, 0, 60);
+  lv_slider_set_range(brightness_slider, 0, 255);
+  lv_slider_set_value(brightness_slider, 255, LV_ANIM_OFF);
+  lv_obj_add_event_cb(brightness_slider, brightness_slider_event_cb, LV_EVENT_VALUE_CHANGED, NULL);
 
   // Close button at bottom
   close_btn = lv_btn_create(settings_menu);
-  lv_obj_align(close_btn, LV_ALIGN_BOTTOM_MID, 0, -10);
+  lv_obj_align(close_btn, LV_ALIGN_BOTTOM_MID, 0, -20);
   lv_obj_add_event_cb(close_btn, close_btn_event_cb, LV_EVENT_CLICKED, NULL);
   lv_obj_t *close_label = lv_label_create(close_btn);
   lv_label_set_text(close_label, "Close");
@@ -196,6 +210,12 @@ void settings_btn_event_cb(lv_event_t *e) {
 
 void close_btn_event_cb(lv_event_t *e) {
   closeSettingsMenu();
+}
+
+void brightness_slider_event_cb(lv_event_t *e) {
+  lv_obj_t *slider = lv_event_get_target(e);
+  int value = lv_slider_get_value(slider);
+  analogWrite(LCD_BACKLIGHT_PIN, value);
 }
 
 // Implement other features using LVGL widgets for UI...
