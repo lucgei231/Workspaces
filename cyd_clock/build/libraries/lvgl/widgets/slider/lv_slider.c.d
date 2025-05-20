@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\slider\lv_slider.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\slider\lv_slider.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\slider\lv_slider.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\slider\lv_slider_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/widgets/bar/lv_bar_private.h \

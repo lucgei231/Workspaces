@@ -12,6 +12,10 @@ using FS = fs::FS;
 #include <WiFiManager.h>  // Add this at the top
 #include <FS.h>
 
+lv_obj_t *settings_btn;
+lv_obj_t *settings_menu;
+lv_obj_t *close_btn;
+bool settings_open = false;
 
 #define XPT2046_IRQ 36   // T_IRQ
 #define XPT2046_MOSI 32  // T_DIN
@@ -43,6 +47,10 @@ int currentMenu = 0;
 
 // --- Function Prototypes ---
 void showClock();
+void showSettingsMenu();
+void closeSettingsMenu();
+void settings_btn_event_cb(lv_event_t *e);
+void close_btn_event_cb(lv_event_t *e);
 
 void touchscreen_read(lv_indev_t *indev, lv_indev_data_t *data) {
   if (touchscreen.tirqTouched() && touchscreen.touched()) {
@@ -68,7 +76,7 @@ const unsigned long ntpSyncInterval = 60 * 60 * 1000UL; // Sync every hour
 void setup() {
   Serial.begin(115200);
   tft.init();
-  tft.setRotation(1);
+  tft.setRotation(0);
   pinMode(LCD_BACKLIGHT_PIN, OUTPUT);
 
   lv_init();
@@ -76,7 +84,7 @@ void setup() {
   // Init touchscreen
   touchscreenSPI.begin(XPT2046_CLK, XPT2046_MISO, XPT2046_MOSI, XPT2046_CS);
   touchscreen.begin(touchscreenSPI);
-  touchscreen.setRotation(90);
+  touchscreen.setRotation(0);
 
   lv_display_t *disp = lv_tft_espi_create(SCREEN_WIDTH, SCREEN_HEIGHT, draw_buf, sizeof(draw_buf));
   lv_indev_t *indev = lv_indev_create();
@@ -88,10 +96,17 @@ void setup() {
   lv_obj_align(clock_label, LV_ALIGN_CENTER, 0, 0);
   lv_label_set_text(clock_label, "Connecting...");
 
+  // Settings button (top right)
+  settings_btn = lv_btn_create(lv_scr_act());
+  lv_obj_align(settings_btn, LV_ALIGN_TOP_RIGHT, -10, 10);
+  lv_obj_add_event_cb(settings_btn, settings_btn_event_cb, LV_EVENT_CLICKED, NULL);
+  lv_obj_t *btn_label = lv_label_create(settings_btn);
+  lv_label_set_text(btn_label, LV_SYMBOL_SETTINGS);
+
   // Increase font size
   static lv_style_t style_large_font;
   lv_style_init(&style_large_font);
-  lv_style_set_text_font(&style_large_font, &lv_font_montserrat_48);
+  lv_style_set_text_font(&style_large_font, &lv_font_montserrat_36);
   lv_obj_add_style(clock_label, &style_large_font, 0);
 
   // --- WiFiManager section ---
@@ -145,6 +160,42 @@ void showClock() {
   lv_label_set_text(clock_label, buf);
 }
 
+void showSettingsMenu() {
+  settings_open = true;
+  lv_obj_add_flag(clock_label, LV_OBJ_FLAG_HIDDEN);
+  lv_obj_add_flag(settings_btn, LV_OBJ_FLAG_HIDDEN);
 
+  // Create settings menu container
+  settings_menu = lv_obj_create(lv_scr_act());
+  lv_obj_set_size(settings_menu, 200, 200);
+  lv_obj_align(settings_menu, LV_ALIGN_CENTER, 0, 0);
+
+  // Close button at bottom
+  close_btn = lv_btn_create(settings_menu);
+  lv_obj_align(close_btn, LV_ALIGN_BOTTOM_MID, 0, -10);
+  lv_obj_add_event_cb(close_btn, close_btn_event_cb, LV_EVENT_CLICKED, NULL);
+  lv_obj_t *close_label = lv_label_create(close_btn);
+  lv_label_set_text(close_label, "Close");
+}
+
+void closeSettingsMenu() {
+  settings_open = false;
+  lv_obj_clear_flag(clock_label, LV_OBJ_FLAG_HIDDEN);
+  lv_obj_clear_flag(settings_btn, LV_OBJ_FLAG_HIDDEN);
+
+  if (settings_menu) {
+    lv_obj_del(settings_menu);
+    settings_menu = NULL;
+    close_btn = NULL;
+  }
+}
+
+void settings_btn_event_cb(lv_event_t *e) {
+  showSettingsMenu();
+}
+
+void close_btn_event_cb(lv_event_t *e) {
+  closeSettingsMenu();
+}
 
 // Implement other features using LVGL widgets for UI...

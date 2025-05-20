@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\libinput\lv_xkb.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\libinput\lv_xkb.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\libinput\lv_xkb.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\libinput\lv_xkb_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\libinput\lv_xkb.h \

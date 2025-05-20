@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\qrcode\qrcodegen.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\qrcode\qrcodegen.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\qrcode\qrcodegen.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\qrcode\qrcodegen.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/lvgl.h \

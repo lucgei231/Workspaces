@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\glfw\lv_opengles_driver.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\glfw\lv_opengles_driver.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\glfw\lv_opengles_driver.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/display/lv_display.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_types.h \

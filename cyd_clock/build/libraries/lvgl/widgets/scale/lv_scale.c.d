@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\scale\lv_scale.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\scale\lv_scale.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\scale\lv_scale.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\scale\lv_scale_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\scale\lv_scale.h \

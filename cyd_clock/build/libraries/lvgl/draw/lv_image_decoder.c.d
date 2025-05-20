@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\draw\lv_image_decoder.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\draw\lv_image_decoder.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\lv_image_decoder.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\lv_image_decoder_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\lv_image_decoder.h \

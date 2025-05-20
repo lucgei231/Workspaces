@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\misc\cache\lv_cache.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\misc\cache\lv_cache.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\cache\lv_cache.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\cache\lv_cache.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\cache\lv_cache_entry.h \

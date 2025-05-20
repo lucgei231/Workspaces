@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\windows\lv_windows_input.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\windows\lv_windows_input.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\windows\lv_windows_input.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\windows\lv_windows_input.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/display/lv_display.h \

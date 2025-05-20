@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\freetype\lv_freetype.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\freetype\lv_freetype.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\freetype\lv_freetype.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_fs_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_fs.h \

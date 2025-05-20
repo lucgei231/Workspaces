@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\draw\sw\blend\lv_draw_sw_blend.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\draw\sw\blend\lv_draw_sw_blend.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\sw\blend\lv_draw_sw_blend.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_area_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_area.h \

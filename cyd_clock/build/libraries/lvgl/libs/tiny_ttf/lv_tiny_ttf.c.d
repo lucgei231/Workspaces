@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\tiny_ttf\lv_tiny_ttf.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\tiny_ttf\lv_tiny_ttf.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\tiny_ttf\lv_tiny_ttf.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lvgl.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/lvgl.h \

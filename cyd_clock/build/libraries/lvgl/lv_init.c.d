@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\lv_init.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\lv_init.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\lv_init.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others/sysmon/lv_sysmon_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others/sysmon/lv_sysmon.h \

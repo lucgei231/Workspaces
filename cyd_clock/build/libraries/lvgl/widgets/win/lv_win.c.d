@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\win\lv_win.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\win\lv_win.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\win\lv_win.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\win\lv_win_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_private.h \

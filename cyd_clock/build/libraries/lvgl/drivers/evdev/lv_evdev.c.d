@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\evdev\lv_evdev.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\evdev\lv_evdev.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\evdev\lv_evdev.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\evdev\lv_evdev.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/indev/lv_indev.h \

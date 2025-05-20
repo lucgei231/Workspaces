@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\thorvg\tvgSwMath.cpp.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\thorvg\tvgSwMath.cpp.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\thorvg\tvgSwMath.cpp \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_kconfig.h \

@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\checkbox\lv_checkbox.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\checkbox\lv_checkbox.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\checkbox\lv_checkbox.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\checkbox\lv_checkbox_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\checkbox\lv_checkbox.h \

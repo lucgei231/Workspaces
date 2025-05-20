@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\draw\vg_lite\lv_vg_lite_grad.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\draw\vg_lite\lv_vg_lite_grad.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\vg_lite\lv_vg_lite_grad.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/draw/lv_draw_vector_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/draw/lv_draw_vector.h \

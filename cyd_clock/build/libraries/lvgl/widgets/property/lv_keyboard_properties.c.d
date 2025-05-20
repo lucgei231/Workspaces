@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\property\lv_keyboard_properties.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\property\lv_keyboard_properties.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\property\lv_keyboard_properties.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/widgets/keyboard/lv_keyboard.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/widgets/buttonmatrix/lv_buttonmatrix.h \

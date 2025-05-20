@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_color.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_color.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_color.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_color.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\bar\lv_bar.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\bar\lv_bar.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\bar\lv_bar.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\bar\lv_bar_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_private.h \

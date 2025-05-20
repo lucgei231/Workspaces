@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_palette.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_palette.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_palette.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_palette.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_color.h \

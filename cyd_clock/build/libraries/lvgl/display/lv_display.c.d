@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\display\lv_display.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\display\lv_display.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\display\lv_display.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/display/lv_display_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_types.h \

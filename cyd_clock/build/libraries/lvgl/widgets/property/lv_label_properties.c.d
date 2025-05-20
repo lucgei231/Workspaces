@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\property\lv_label_properties.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\property\lv_label_properties.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\property\lv_label_properties.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/widgets/label/lv_label.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

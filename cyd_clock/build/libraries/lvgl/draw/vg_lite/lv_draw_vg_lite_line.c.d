@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\draw\vg_lite\lv_draw_vg_lite_line.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\draw\vg_lite\lv_draw_vg_lite_line.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\vg_lite\lv_draw_vg_lite_line.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_area_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_area.h \

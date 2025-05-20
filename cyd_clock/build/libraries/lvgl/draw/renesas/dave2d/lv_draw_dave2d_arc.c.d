@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\draw\renesas\dave2d\lv_draw_dave2d_arc.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\draw\renesas\dave2d\lv_draw_dave2d_arc.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\renesas\dave2d\lv_draw_dave2d_arc.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\renesas\dave2d\lv_draw_dave2d.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

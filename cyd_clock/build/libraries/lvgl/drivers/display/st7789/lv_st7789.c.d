@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\display\st7789\lv_st7789.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\display\st7789\lv_st7789.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\display\st7789\lv_st7789.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\display\st7789\lv_st7789.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/drivers/display/lcd/lv_lcd_generic_mipi.h \

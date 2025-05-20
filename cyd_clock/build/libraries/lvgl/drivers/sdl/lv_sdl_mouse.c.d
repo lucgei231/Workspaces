@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\sdl\lv_sdl_mouse.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\sdl\lv_sdl_mouse.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\sdl\lv_sdl_mouse.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\sdl\lv_sdl_mouse.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\sdl\lv_sdl_window.h \

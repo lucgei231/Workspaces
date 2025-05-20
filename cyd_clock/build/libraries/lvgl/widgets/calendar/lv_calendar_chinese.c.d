@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\calendar\lv_calendar_chinese.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\calendar\lv_calendar_chinese.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\calendar\lv_calendar_chinese.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\calendar\lv_calendar_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_private.h \

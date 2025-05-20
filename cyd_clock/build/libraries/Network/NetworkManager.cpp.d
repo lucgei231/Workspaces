@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\Network\NetworkManager.cpp.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\Network\NetworkManager.cpp.o: \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\Network\src\NetworkManager.cpp \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\Network\src\NetworkManager.h \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\Network\src\NetworkEvents.h \

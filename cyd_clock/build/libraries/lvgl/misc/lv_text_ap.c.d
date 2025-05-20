@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_text_ap.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_text_ap.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_text_ap.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_bidi.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

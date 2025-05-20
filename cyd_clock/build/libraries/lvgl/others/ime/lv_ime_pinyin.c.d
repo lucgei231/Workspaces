@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\others\ime\lv_ime_pinyin.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\others\ime\lv_ime_pinyin.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\ime\lv_ime_pinyin.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\ime\lv_ime_pinyin_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_private.h \

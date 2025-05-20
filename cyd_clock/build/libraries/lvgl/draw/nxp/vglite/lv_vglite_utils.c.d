@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\draw\nxp\vglite\lv_vglite_utils.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\draw\nxp\vglite\lv_vglite_utils.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\nxp\vglite\lv_vglite_utils.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\nxp\vglite\lv_vglite_utils.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

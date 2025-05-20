@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\others\monkey\lv_monkey.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\others\monkey\lv_monkey.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\monkey\lv_monkey.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\monkey\lv_monkey_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\monkey\lv_monkey.h \

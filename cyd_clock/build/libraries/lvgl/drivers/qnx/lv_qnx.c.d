@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\qnx\lv_qnx.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\qnx\lv_qnx.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\qnx\lv_qnx.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\qnx\lv_qnx.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/display/lv_display.h \

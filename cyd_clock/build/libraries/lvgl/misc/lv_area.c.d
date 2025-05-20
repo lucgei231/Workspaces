@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_area.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_area.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_area.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_kconfig.h \

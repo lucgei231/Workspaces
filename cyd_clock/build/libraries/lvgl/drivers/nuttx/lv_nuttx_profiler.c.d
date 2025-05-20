@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\nuttx\lv_nuttx_profiler.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\nuttx\lv_nuttx_profiler.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\nuttx\lv_nuttx_profiler.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\nuttx\lv_nuttx_profiler.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/lvgl.h \

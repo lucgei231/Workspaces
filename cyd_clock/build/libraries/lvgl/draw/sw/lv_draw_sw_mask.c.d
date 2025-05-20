@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\draw\sw\lv_draw_sw_mask.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\draw\sw\lv_draw_sw_mask.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\sw\lv_draw_sw_mask.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\sw\lv_draw_sw_mask_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\sw\lv_draw_sw_mask.h \

@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\NTPClient\NTPClient.cpp.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\NTPClient\NTPClient.cpp.o: \
  C:\Users\adam\Documents\Arduino\libraries\NTPClient\NTPClient.cpp \
  C:\Users\adam\Documents\Arduino\libraries\NTPClient\NTPClient.h \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32/Arduino.h \

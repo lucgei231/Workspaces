@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_timer.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_timer.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_timer.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_timer_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_timer.h \

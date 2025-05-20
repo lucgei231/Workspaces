@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\core\lv_refr.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\core\lv_refr.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\core\lv_refr.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\core\lv_refr_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\core\lv_refr.h \

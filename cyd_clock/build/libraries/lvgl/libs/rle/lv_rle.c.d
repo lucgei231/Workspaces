@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\rle\lv_rle.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\rle\lv_rle.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\rle\lv_rle.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/stdlib/lv_string.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

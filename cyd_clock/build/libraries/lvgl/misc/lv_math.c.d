@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_math.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_math.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_math.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_math.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

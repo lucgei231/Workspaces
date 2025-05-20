@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\display\tft_espi\lv_tft_espi.cpp.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\display\tft_espi\lv_tft_espi.cpp.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\display\tft_espi\lv_tft_espi.cpp \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\display\tft_espi\lv_tft_espi.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/display/lv_display.h \

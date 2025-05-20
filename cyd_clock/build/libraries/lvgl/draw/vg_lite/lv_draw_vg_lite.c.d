@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\draw\vg_lite\lv_draw_vg_lite.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\draw\vg_lite\lv_draw_vg_lite.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\vg_lite\lv_draw_vg_lite.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\vg_lite\lv_draw_vg_lite.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

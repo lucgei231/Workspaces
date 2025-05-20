@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\windows\lv_windows_context.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\windows\lv_windows_context.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\windows\lv_windows_context.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\windows\lv_windows_context.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/display/lv_display.h \

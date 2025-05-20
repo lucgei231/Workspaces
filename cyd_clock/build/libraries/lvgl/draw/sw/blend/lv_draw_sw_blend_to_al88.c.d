@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\draw\sw\blend\lv_draw_sw_blend_to_al88.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\draw\sw\blend\lv_draw_sw_blend_to_al88.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\sw\blend\lv_draw_sw_blend_to_al88.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\sw\blend\lv_draw_sw_blend_to_al88.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/draw/sw/lv_draw_sw.h \

@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\span\lv_span.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\span\lv_span.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\span\lv_span.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\span\lv_span_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_private.h \

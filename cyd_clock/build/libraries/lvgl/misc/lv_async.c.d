@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_async.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_async.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_async.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_async.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_types.h \

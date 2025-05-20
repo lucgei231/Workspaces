@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\draw\sw\blend\neon\lv_blend_neon.S.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\draw\sw\blend\neon\lv_blend_neon.S.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\sw\blend\neon\lv_blend_neon.S \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\sw\blend\neon\lv_blend_neon.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

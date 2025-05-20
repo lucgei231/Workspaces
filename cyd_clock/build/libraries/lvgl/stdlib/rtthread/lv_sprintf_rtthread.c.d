@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\stdlib\rtthread\lv_sprintf_rtthread.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\stdlib\rtthread\lv_sprintf_rtthread.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\stdlib\rtthread\lv_sprintf_rtthread.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_kconfig.h \

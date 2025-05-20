@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\nuttx\lv_nuttx_fbdev.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\nuttx\lv_nuttx_fbdev.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\nuttx\lv_nuttx_fbdev.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\nuttx\lv_nuttx_fbdev.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/display/lv_display.h \

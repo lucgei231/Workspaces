@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\fsdrv\lv_fs_arduino_esp_littlefs.cpp.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\fsdrv\lv_fs_arduino_esp_littlefs.cpp.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\fsdrv\lv_fs_arduino_esp_littlefs.cpp \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/lvgl.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/lv_version.h \

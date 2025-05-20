@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\barcode\code128.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\barcode\code128.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\barcode\code128.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/lvgl.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/lv_version.h \

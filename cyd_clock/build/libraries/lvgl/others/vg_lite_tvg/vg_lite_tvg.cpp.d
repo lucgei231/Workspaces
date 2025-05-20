@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\others\vg_lite_tvg\vg_lite_tvg.cpp.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\others\vg_lite_tvg\vg_lite_tvg.cpp.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\vg_lite_tvg\vg_lite_tvg.cpp \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_kconfig.h \

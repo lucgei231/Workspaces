@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\font\lv_font_fmt_txt.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\font\lv_font_fmt_txt.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\font\lv_font_fmt_txt.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\font\lv_font.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

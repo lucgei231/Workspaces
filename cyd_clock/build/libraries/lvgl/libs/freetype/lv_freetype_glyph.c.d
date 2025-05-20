@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\freetype\lv_freetype_glyph.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\freetype\lv_freetype_glyph.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\freetype\lv_freetype_glyph.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lvgl.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/lvgl.h \

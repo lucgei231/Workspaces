@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\others\sysmon\lv_sysmon.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\others\sysmon\lv_sysmon.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\sysmon\lv_sysmon.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\sysmon\lv_sysmon_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\sysmon\lv_sysmon.h \

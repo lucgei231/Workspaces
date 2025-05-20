@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_anim.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_anim.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_anim.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_anim_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_anim.h \

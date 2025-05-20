@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\indev\lv_indev_scroll.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\indev\lv_indev_scroll.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\indev\lv_indev_scroll.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_scroll_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_scroll.h \

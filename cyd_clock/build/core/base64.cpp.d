@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\core\base64.cpp.o: \
+D:\Desktop\Workspaces\cyd_clock\build\core\base64.cpp.o: \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\base64.cpp \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\Arduino.h \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\esp_arduino_version.h \

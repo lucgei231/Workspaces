@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\libinput\lv_libinput.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\libinput\lv_libinput.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\libinput\lv_libinput.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/indev/lv_indev_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/indev/lv_indev.h \

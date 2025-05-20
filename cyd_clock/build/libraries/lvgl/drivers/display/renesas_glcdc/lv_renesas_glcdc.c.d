@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\display\renesas_glcdc\lv_renesas_glcdc.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\display\renesas_glcdc\lv_renesas_glcdc.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\display\renesas_glcdc\lv_renesas_glcdc.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\display\renesas_glcdc\lv_renesas_glcdc.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/display/lv_display.h \

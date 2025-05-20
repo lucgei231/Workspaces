@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\gif\gifdec.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\gif\gifdec.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\gif\gifdec.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\gif\gifdec.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_fs.h \

@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\arc\lv_arc.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\arc\lv_arc.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\arc\lv_arc.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\arc\lv_arc_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_private.h \

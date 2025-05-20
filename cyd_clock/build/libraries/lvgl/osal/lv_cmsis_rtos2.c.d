@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\osal\lv_cmsis_rtos2.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\osal\lv_cmsis_rtos2.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\osal\lv_cmsis_rtos2.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\osal\lv_os.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

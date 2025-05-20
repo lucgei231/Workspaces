@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\FS\vfs_api.cpp.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\FS\vfs_api.cpp.o: \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\FS\src\vfs_api.cpp \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\FS\src\vfs_api.h \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\FS\src\FS.h \

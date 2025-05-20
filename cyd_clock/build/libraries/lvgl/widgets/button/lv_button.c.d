@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\button\lv_button.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\button\lv_button.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\button\lv_button.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\button\lv_button_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_private.h \

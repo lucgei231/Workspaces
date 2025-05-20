@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\core\freertos_stats.cpp.o: \
+D:\Desktop\Workspaces\cyd_clock\build\core\freertos_stats.cpp.o: \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\freertos_stats.cpp \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\freertos_stats.h \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\Print.h \

@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\nuttx\lv_nuttx_cache.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\nuttx\lv_nuttx_cache.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\nuttx\lv_nuttx_cache.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\nuttx\lv_nuttx_cache.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/lvgl.h \

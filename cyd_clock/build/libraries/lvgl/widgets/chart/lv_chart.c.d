@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\chart\lv_chart.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\chart\lv_chart.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\chart\lv_chart.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\chart\lv_chart_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_private.h \

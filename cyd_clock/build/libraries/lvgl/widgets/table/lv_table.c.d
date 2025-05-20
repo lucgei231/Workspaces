@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\table\lv_table.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\table\lv_table.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\table\lv_table.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\table\lv_table_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\table\lv_table.h \

@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\core\FirmwareMSC.cpp.o: \
+D:\Desktop\Workspaces\cyd_clock\build\core\FirmwareMSC.cpp.o: \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\FirmwareMSC.cpp \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\FirmwareMSC.h \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\USBMSC.h \

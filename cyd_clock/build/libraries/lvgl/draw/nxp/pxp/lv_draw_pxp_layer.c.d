@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\draw\nxp\pxp\lv_draw_pxp_layer.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\draw\nxp\pxp\lv_draw_pxp_layer.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\nxp\pxp\lv_draw_pxp_layer.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\nxp\pxp\lv_draw_pxp.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

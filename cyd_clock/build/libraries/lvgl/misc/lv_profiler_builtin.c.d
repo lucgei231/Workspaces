@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_profiler_builtin.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_profiler_builtin.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_profiler_builtin.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_profiler_builtin_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_profiler_builtin.h \

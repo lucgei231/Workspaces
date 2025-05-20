@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_array.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_array.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_array.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_array.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_types.h \

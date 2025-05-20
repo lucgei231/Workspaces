@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\switch\lv_switch.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\switch\lv_switch.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\switch\lv_switch.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\switch\lv_switch_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\switch\lv_switch.h \

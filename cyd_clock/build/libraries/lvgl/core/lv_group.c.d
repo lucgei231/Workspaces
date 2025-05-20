@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\core\lv_group.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\core\lv_group.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\core\lv_group.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\core\lv_group_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\core\lv_group.h \

@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\core\esp32-hal-gpio.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\core\esp32-hal-gpio.c.o: \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\esp32-hal-gpio.c \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\esp32-hal-gpio.h \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\variants\esp32/pins_arduino.h \

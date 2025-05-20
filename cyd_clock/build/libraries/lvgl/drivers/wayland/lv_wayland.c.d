@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\wayland\lv_wayland.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\wayland\lv_wayland.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\wayland\lv_wayland.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\wayland\lv_wayland.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/display/lv_display.h \

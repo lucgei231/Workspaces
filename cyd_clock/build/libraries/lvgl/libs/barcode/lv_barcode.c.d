@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\barcode\lv_barcode.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\barcode\lv_barcode.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\barcode\lv_barcode.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_class_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_class.h \

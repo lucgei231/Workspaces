@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_style_gen.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_style_gen.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_style_gen.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_style.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/font/lv_font.h \

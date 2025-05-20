@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\glfw\lv_glfw_window.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\glfw\lv_glfw_window.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\glfw\lv_glfw_window.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\glfw\lv_glfw_window_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\glfw\lv_glfw_window.h \

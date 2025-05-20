@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\label\lv_label.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\label\lv_label.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\label\lv_label.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\label\lv_label_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/draw/lv_draw_label_private.h \

@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\thorvg\tvgLottieModel.cpp.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\thorvg\tvgLottieModel.cpp.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\thorvg\tvgLottieModel.cpp \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_kconfig.h \

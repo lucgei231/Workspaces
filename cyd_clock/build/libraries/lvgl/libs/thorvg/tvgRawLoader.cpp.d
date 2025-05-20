@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\thorvg\tvgRawLoader.cpp.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\thorvg\tvgRawLoader.cpp.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\thorvg\tvgRawLoader.cpp \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_kconfig.h \

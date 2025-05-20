@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\core\WString.cpp.o: \
+D:\Desktop\Workspaces\cyd_clock\build\core\WString.cpp.o: \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\WString.cpp \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\Arduino.h \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\esp_arduino_version.h \

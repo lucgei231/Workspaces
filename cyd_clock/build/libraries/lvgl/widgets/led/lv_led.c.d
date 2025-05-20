@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\led\lv_led.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\led\lv_led.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\led\lv_led.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\led\lv_led_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\led\lv_led.h \

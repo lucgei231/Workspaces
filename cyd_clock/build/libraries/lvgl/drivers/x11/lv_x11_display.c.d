@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\x11\lv_x11_display.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\x11\lv_x11_display.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\x11\lv_x11_display.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\x11\lv_x11.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/display/lv_display.h \

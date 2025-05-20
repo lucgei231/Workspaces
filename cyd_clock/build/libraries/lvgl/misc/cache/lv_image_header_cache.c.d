@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\misc\cache\lv_image_header_cache.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\misc\cache\lv_image_header_cache.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\cache\lv_image_header_cache.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/draw/lv_image_decoder_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/draw/lv_image_decoder.h \

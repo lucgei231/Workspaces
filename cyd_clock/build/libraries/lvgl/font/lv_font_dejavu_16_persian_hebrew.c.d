@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\font\lv_font_dejavu_16_persian_hebrew.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\font\lv_font_dejavu_16_persian_hebrew.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\font\lv_font_dejavu_16_persian_hebrew.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/lvgl.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/lv_version.h \

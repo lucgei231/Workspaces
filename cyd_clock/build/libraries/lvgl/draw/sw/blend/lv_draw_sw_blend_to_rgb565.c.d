@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\draw\sw\blend\lv_draw_sw_blend_to_rgb565.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\draw\sw\blend\lv_draw_sw_blend_to_rgb565.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\sw\blend\lv_draw_sw_blend_to_rgb565.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\sw\blend\lv_draw_sw_blend_to_rgb565.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/draw/sw/lv_draw_sw.h \

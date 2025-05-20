@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\lz4\lz4.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\lz4\lz4.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\lz4\lz4.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_kconfig.h \

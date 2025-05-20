@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\spinbox\lv_spinbox.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\spinbox\lv_spinbox.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\spinbox\lv_spinbox.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\spinbox\lv_spinbox_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/widgets/textarea/lv_textarea_private.h \

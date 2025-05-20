@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\layouts\grid\lv_grid.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\layouts\grid\lv_grid.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\layouts\grid\lv_grid.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\layouts\grid\lv_grid.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

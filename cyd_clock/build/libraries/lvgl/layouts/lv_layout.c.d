@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\layouts\lv_layout.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\layouts\lv_layout.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\layouts\lv_layout.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\layouts\lv_layout_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\layouts\lv_layout.h \

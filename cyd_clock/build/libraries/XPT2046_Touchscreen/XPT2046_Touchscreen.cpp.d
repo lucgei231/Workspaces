@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\XPT2046_Touchscreen\XPT2046_Touchscreen.cpp.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\XPT2046_Touchscreen\XPT2046_Touchscreen.cpp.o: \
  C:\Users\adam\Documents\Arduino\libraries\XPT2046_Touchscreen\XPT2046_Touchscreen.cpp \
  C:\Users\adam\Documents\Arduino\libraries\XPT2046_Touchscreen\XPT2046_Touchscreen.h \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32/Arduino.h \

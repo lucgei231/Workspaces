@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\qrcode\lv_qrcode.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\qrcode\lv_qrcode.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\qrcode\lv_qrcode.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_class_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_class.h \

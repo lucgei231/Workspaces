@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\property\lv_image_properties.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\property\lv_image_properties.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\property\lv_image_properties.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/widgets/image/lv_image.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\tjpgd\tjpgd.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\tjpgd\tjpgd.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\tjpgd\tjpgd.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\tjpgd\tjpgd.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

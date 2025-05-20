@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\canvas\lv_canvas.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\canvas\lv_canvas.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\canvas\lv_canvas.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\canvas\lv_canvas_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/widgets/image/lv_image_private.h \

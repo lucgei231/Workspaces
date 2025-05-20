@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\themes\lv_theme.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\themes\lv_theme.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\themes\lv_theme.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\themes\lv_theme_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\themes\lv_theme.h \

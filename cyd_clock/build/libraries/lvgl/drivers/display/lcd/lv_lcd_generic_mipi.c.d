@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\display\lcd\lv_lcd_generic_mipi.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\display\lcd\lv_lcd_generic_mipi.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\display\lcd\lv_lcd_generic_mipi.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\display\lcd\lv_lcd_generic_mipi.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/display/lv_display.h \

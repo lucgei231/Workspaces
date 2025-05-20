@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\draw\lv_draw_arc.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\draw\lv_draw_arc.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\lv_draw_arc.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\lv_draw_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\lv_draw.h \

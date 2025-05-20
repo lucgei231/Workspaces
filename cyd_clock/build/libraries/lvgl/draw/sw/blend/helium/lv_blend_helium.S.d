@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\draw\sw\blend\helium\lv_blend_helium.S.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\draw\sw\blend\helium\lv_blend_helium.S.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\sw\blend\helium\lv_blend_helium.S \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\sw\blend\helium\lv_blend_helium.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

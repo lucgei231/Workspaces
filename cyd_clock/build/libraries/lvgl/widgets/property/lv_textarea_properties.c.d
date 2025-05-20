@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\property\lv_textarea_properties.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\property\lv_textarea_properties.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\property\lv_textarea_properties.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/widgets/textarea/lv_textarea.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/widgets/label/lv_label.h \

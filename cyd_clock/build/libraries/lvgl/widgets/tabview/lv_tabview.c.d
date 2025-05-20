@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\tabview\lv_tabview.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\tabview\lv_tabview.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\tabview\lv_tabview.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\tabview\lv_tabview_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_private.h \

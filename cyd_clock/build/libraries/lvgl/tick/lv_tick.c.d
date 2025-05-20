@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\tick\lv_tick.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\tick\lv_tick.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\tick\lv_tick.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\tick\lv_tick_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\tick\lv_tick.h \

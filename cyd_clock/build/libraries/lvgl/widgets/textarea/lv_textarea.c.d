@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\textarea\lv_textarea.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\textarea\lv_textarea.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\textarea\lv_textarea.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\textarea\lv_textarea_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_private.h \

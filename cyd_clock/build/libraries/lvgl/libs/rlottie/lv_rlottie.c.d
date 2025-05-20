@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\rlottie\lv_rlottie.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\rlottie\lv_rlottie.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\rlottie\lv_rlottie.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lvgl.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/lvgl.h \

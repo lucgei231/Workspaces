@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\core\lv_obj_pos.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\core\lv_obj_pos.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\core\lv_obj_pos.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_area_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_area.h \

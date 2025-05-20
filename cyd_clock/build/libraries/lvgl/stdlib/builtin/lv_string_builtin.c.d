@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\stdlib\builtin\lv_string_builtin.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\stdlib\builtin\lv_string_builtin.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\stdlib\builtin\lv_string_builtin.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_kconfig.h \

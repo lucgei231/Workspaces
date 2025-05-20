@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\themes\default\lv_theme_default.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\themes\default\lv_theme_default.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\themes\default\lv_theme_default.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/lvgl.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/lv_version.h \

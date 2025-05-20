@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\drivers\display\drm\lv_linux_drm.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\drivers\display\drm\lv_linux_drm.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\display\drm\lv_linux_drm.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\drivers\display\drm\lv_linux_drm.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/display/lv_display.h \

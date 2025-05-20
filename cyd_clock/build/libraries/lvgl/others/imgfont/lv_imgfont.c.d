@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\others\imgfont\lv_imgfont.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\others\imgfont\lv_imgfont.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\imgfont\lv_imgfont.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lvgl.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/lvgl.h \

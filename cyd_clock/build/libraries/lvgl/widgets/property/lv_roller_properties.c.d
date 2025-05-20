@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\property\lv_roller_properties.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\property\lv_roller_properties.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\property\lv_roller_properties.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/widgets/roller/lv_roller.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj.h \

@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\osal\lv_windows.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\osal\lv_windows.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\osal\lv_windows.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\osal\lv_os.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\SPIFFS\SPIFFS.cpp.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\SPIFFS\SPIFFS.cpp.o: \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\SPIFFS\src\SPIFFS.cpp \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\FS\src/vfs_api.h \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\libraries\FS\src/FS.h \

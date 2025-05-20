@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\lodepng\lodepng.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\lodepng\lodepng.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\lodepng\lodepng.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\lodepng\lodepng.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/lvgl.h \

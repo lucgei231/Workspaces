@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\others\fragment\lv_fragment_manager.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\others\fragment\lv_fragment_manager.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\fragment\lv_fragment_manager.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\fragment\lv_fragment_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\fragment\lv_fragment.h \

@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\stdlib\lv_mem.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\stdlib\lv_mem.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\stdlib\lv_mem.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\stdlib\lv_mem_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\stdlib\lv_mem.h \

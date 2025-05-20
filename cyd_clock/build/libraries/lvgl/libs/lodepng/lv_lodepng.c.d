@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\lodepng\lv_lodepng.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\lodepng\lv_lodepng.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\lodepng\lv_lodepng.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/draw/lv_image_decoder_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/draw/lv_image_decoder.h \

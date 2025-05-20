@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\freetype\lv_freetype_outline.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\freetype\lv_freetype_outline.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\freetype\lv_freetype_outline.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_event_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/misc/lv_event.h \

@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\draw\sw\lv_draw_sw_gradient.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\draw\sw\lv_draw_sw_gradient.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\sw\lv_draw_sw_gradient.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\sw\lv_draw_sw_gradient_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\sw\lv_draw_sw_gradient.h \

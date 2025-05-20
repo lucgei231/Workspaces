@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\lottie\lv_lottie.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\lottie\lv_lottie.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\lottie\lv_lottie.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\lottie\lv_lottie_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/lv_conf_internal.h \

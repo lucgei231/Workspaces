@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\widgets\property\lv_style_properties.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\widgets\property\lv_style_properties.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\property\lv_style_properties.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\widgets\property\lv_style_properties.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_property.h \

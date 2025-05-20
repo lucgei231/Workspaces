@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_bidi.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\misc\lv_bidi.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_bidi.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_bidi_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\misc\lv_bidi.h \

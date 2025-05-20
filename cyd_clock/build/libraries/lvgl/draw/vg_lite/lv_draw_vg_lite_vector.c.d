@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\draw\vg_lite\lv_draw_vg_lite_vector.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\draw\vg_lite\lv_draw_vg_lite_vector.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\draw\vg_lite\lv_draw_vg_lite_vector.c \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/draw/lv_image_decoder_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/draw/lv_image_decoder.h \

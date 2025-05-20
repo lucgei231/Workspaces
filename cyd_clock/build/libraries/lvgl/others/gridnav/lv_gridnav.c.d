@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\others\gridnav\lv_gridnav.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\others\gridnav\lv_gridnav.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\gridnav\lv_gridnav.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\gridnav\lv_gridnav.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj.h \

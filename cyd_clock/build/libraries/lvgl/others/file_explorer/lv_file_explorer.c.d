@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\others\file_explorer\lv_file_explorer.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\others\file_explorer\lv_file_explorer.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\file_explorer\lv_file_explorer.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\file_explorer\lv_file_explorer_private.h \
  C:/Users/adam/Documents/Arduino/libraries/lvgl/src/core/lv_obj_private.h \

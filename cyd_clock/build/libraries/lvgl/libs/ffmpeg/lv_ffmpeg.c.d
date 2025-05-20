@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\libs\ffmpeg\lv_ffmpeg.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\libs\ffmpeg\lv_ffmpeg.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\ffmpeg\lv_ffmpeg.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\ffmpeg\lv_ffmpeg_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\libs\ffmpeg\lv_ffmpeg.h \

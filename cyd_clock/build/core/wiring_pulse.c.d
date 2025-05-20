@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\core\wiring_pulse.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\core\wiring_pulse.c.o: \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\wiring_pulse.c \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\wiring_private.h \
  C:\Users\adam\AppData\Local\Arduino15\packages\esp32\hardware\esp32\3.2.0\cores\esp32\Arduino.h \

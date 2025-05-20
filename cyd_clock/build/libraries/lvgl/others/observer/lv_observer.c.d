@@ -1,4 +1,4 @@
-F:\Workspaces\cyd_clock\build\libraries\lvgl\others\observer\lv_observer.c.o: \
+D:\Desktop\Workspaces\cyd_clock\build\libraries\lvgl\others\observer\lv_observer.c.o: \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\observer\lv_observer.c \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\observer\lv_observer_private.h \
  C:\Users\adam\Documents\Arduino\libraries\lvgl\src\others\observer\lv_observer.h \

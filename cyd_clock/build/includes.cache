@@ -10,77 +10,77 @@
     "Includepath": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\variants\\esp32"
   },
   {
-    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Sourcefile": "D:\\Desktop\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
     "Include": "WiFi.h",
     "Includepath": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\WiFi\\src"
   },
   {
-    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Sourcefile": "D:\\Desktop\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
     "Include": "Network.h",
     "Includepath": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\Network\\src"
   },
   {
-    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Sourcefile": "D:\\Desktop\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
     "Include": "NTPClient.h",
     "Includepath": "C:\\Users\\adam\\Documents\\Arduino\\libraries\\NTPClient"
   },
   {
-    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Sourcefile": "D:\\Desktop\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
     "Include": "lvgl.h",
     "Includepath": "C:\\Users\\adam\\Documents\\Arduino\\libraries\\lvgl\\src"
   },
   {
-    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Sourcefile": "D:\\Desktop\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
     "Include": "TFT_eSPI.h",
     "Includepath": "C:\\Users\\adam\\Documents\\Arduino\\libraries\\TFT_eSPI"
   },
   {
-    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Sourcefile": "D:\\Desktop\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
     "Include": "SPI.h",
     "Includepath": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\SPI\\src"
   },
   {
-    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Sourcefile": "D:\\Desktop\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
     "Include": "FS.h",
     "Includepath": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\FS\\src"
   },
   {
-    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Sourcefile": "D:\\Desktop\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
     "Include": "SPIFFS.h",
     "Includepath": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\SPIFFS\\src"
   },
   {
-    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Sourcefile": "D:\\Desktop\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
     "Include": "XPT2046_Touchscreen.h",
     "Includepath": "C:\\Users\\adam\\Documents\\Arduino\\libraries\\XPT2046_Touchscreen"
   },
   {
-    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Sourcefile": "D:\\Desktop\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
     "Include": "WiFiManager.h",
     "Includepath": "C:\\Users\\adam\\Documents\\Arduino\\libraries\\WiFiManager"
   },
   {
-    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Sourcefile": "D:\\Desktop\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
     "Include": "Update.h",
     "Includepath": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\Update\\src"
   },
   {
-    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Sourcefile": "D:\\Desktop\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
     "Include": "WebServer.h",
     "Includepath": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\WebServer\\src"
   },
   {
-    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Sourcefile": "D:\\Desktop\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
     "Include": "DNSServer.h",
     "Includepath": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\DNSServer\\src"
   },
   {
-    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Sourcefile": "D:\\Desktop\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
     "Include": "AsyncUDP.h",
     "Includepath": "C:\\Users\\adam\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\3.2.0\\libraries\\AsyncUDP\\src"
   },
   {
-    "Sourcefile": "F:\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
+    "Sourcefile": "D:\\Desktop\\Workspaces\\cyd_clock\\build\\sketch\\cyd_clock.ino.cpp",
     "Include": "",
     "Includepath": null
   },
